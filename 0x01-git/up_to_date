@@ -1,1 +1,2 @@
-vim up_to_date i type esc : wq enter
+$git add up_to_date
+$git pull
